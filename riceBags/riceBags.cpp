@@ -46,7 +46,6 @@ int main()
 	cout << endl;
 
 	//return program
-	//hi
 
 	return 0;
 }
